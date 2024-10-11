@@ -15,6 +15,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LongestCommonPrefix-Day4", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToastWin", "ToastWin\ToastWin.csproj", "{C8D78B1F-879A-420B-9D59-EC1A0020A7FB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Valid-Parentheses", "Valid-Parentheses\Valid-Parentheses.csproj", "{E645F8E4-F147-4C34-A6B8-5CC7121F51DF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{C8D78B1F-879A-420B-9D59-EC1A0020A7FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C8D78B1F-879A-420B-9D59-EC1A0020A7FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C8D78B1F-879A-420B-9D59-EC1A0020A7FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E645F8E4-F147-4C34-A6B8-5CC7121F51DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E645F8E4-F147-4C34-A6B8-5CC7121F51DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E645F8E4-F147-4C34-A6B8-5CC7121F51DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E645F8E4-F147-4C34-A6B8-5CC7121F51DF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
