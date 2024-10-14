@@ -7,11 +7,15 @@ Console.WriteLine("Hello, World!");
 //"([{}])"
 //"([)]"
 // 40 41,91 93, 123 125;
-   //-1
+//-1
 // ( stack ekledi bir sonraki ) 
-Console.WriteLine(IsValid("([]){"));
+//Console.WriteLine(IsValid("((("));
+char a, b;
 
+a = '}'; // fark 1 ;
+int ascı = a - 0;
 
+Console.WriteLine(ascı);
 
 //(stack.Peek() - 0) - (s[i] - 0) == -1 || (stack.Peek() - 0) - (s[i] - 0) == -2 
 
@@ -27,6 +31,7 @@ bool IsValid(string s)
 
     for (int i = 0; i < s.Length; i++)
     {
+        
         if (openingBrackets.Contains(s[i]))
             stack.Push(s[i]);
         else if (stack.Count != 0)

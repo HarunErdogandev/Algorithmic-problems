@@ -13,9 +13,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RomanToInt-Day3", "RomanToI
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LongestCommonPrefix-Day4", "LongestCommonPrefix-Day4\LongestCommonPrefix-Day4.csproj", "{DEFFDA18-D4A6-4642-B155-95446C736808}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToastWin", "ToastWin\ToastWin.csproj", "{C8D78B1F-879A-420B-9D59-EC1A0020A7FB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToastWin", "ToastWin\ToastWin.csproj", "{C8D78B1F-879A-420B-9D59-EC1A0020A7FB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Valid-Parentheses", "Valid-Parentheses\Valid-Parentheses.csproj", "{E645F8E4-F147-4C34-A6B8-5CC7121F51DF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Valid-Parentheses", "Valid-Parentheses\Valid-Parentheses.csproj", "{E645F8E4-F147-4C34-A6B8-5CC7121F51DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Merge-Two-Sorted-Lists", "Merge-Two-Sorted-Lists\Merge-Two-Sorted-Lists.csproj", "{E17498FB-2518-4462-8F34-229F80DCF198}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{E645F8E4-F147-4C34-A6B8-5CC7121F51DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E645F8E4-F147-4C34-A6B8-5CC7121F51DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E645F8E4-F147-4C34-A6B8-5CC7121F51DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E17498FB-2518-4462-8F34-229F80DCF198}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E17498FB-2518-4462-8F34-229F80DCF198}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E17498FB-2518-4462-8F34-229F80DCF198}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E17498FB-2518-4462-8F34-229F80DCF198}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
